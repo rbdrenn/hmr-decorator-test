@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        ["@babel/plugin-proposal-decorators", {"legacy": true}],
+        "react-hot-loader/babel"
+    ],
+    "presets": [
+        "@babel/preset-react"
+    ]
+}
